@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Code Challange 2 - Views</string>
+    <string name="orangeTextViewText">This is an orange TextView</string>
+    <string name="greenTextViewText">This is an green TextView</string>
+    <string name="blueTextViewText">This is an blue TextView</string>
+    <string name="this_is_a_button">this is a button</string>
+    <string name="this_is_a_green_button">this is a green button</string>
+    <string name="this_is_a_edit_text">This is a edit text</string>
+    <string name="this_is_another_edit_text">This is another edit text</string>
+    <string name="notify_me">Notify Me :)</string>
+    <string name="auto_backup">Auto backup</string>
+</resources>
